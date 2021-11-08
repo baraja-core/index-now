@@ -1,7 +1,7 @@
 {
-	"name": "baraja-core/template",
-	"description": "This is a template package.",
-	"homepage": "https://github.com/baraja-core/template",
+	"name": "baraja-core/index-now",
+	"description": "Send ping to search engine by Index now protocol.",
+	"homepage": "https://github.com/baraja-core/index-now",
 	"authors": [
 		{
 			"name": "Jan Barášek",
